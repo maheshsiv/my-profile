@@ -1,6 +1,6 @@
 const config = {
-  title: 'Your Name',
-  tagline: 'Senior Developer | Full Stack Engineer',
+  title: 'Mahesh Kumar Sivakumarappa',
+  tagline: 'Senior Software Developer | 13+ Years Experience',
   url: 'https://maheshsiv.github.io',
   baseUrl: '/my-profile/',
   organizationName: 'maheshsiv',
@@ -29,9 +29,9 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'Your Name',
+      title: 'Mahesh Sivakumarappa',
       logo: {
-        alt: 'Your Logo',
+        alt: 'MS Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -46,7 +46,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://linkedin.com/in/yourprofile',
+          href: 'https://linkedin.com/in/maheshsiv',
           label: 'LinkedIn',
           position: 'right',
         },
@@ -60,7 +60,7 @@ const config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://linkedin.com/in/yourprofile',
+              href: 'https://linkedin.com/in/maheshsiv',
             },
             {
               label: 'GitHub',
@@ -68,12 +68,12 @@ const config = {
             },
             {
               label: 'Email',
-              href: 'mailto:your.email@example.com',
+              href: 'mailto:maheshsiv2008@gmail.com',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Your Name. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mahesh Kumar Sivakumarappa. Built with Docusaurus.`,
     },
   },
 };

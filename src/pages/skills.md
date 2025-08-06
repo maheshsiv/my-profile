@@ -5,32 +5,46 @@ title: Skills
 # Technical Skills
 
 ## Programming Languages
-- **JavaScript/TypeScript** - Expert
-- **Python** - Proficient  
-- **Java** - Intermediate
-- **Go** - Learning
+- **Java** - Expert
+- **JavaScript** - Proficient  
+- **SQL** - Expert
+- **CQL** - Intermediate
 
-## Frontend Development
-- **React/Next.js** - Expert
-- **Vue.js** - Proficient
-- **HTML5/CSS3** - Expert
-- **Tailwind CSS** - Proficient
+## Frameworks & Technologies
+- **Spring Framework** - Expert
+- **Spring Boot** - Expert
+- **Spring AOP** - Proficient
+- **Spring Data** - Proficient
+- **REST/SOAP** - Expert
+- **GraphQL** - Intermediate
+- **Hystrix** - Intermediate
+- **Ribbon** - Intermediate
 
-## Backend Development
-- **Node.js/Express** - Expert
-- **PostgreSQL/MongoDB** - Proficient
-- **RESTful APIs/GraphQL** - Expert
-- **Redis** - Intermediate
+## Databases
+- **Cassandra** - Proficient
+- **MySQL** - Expert
+- **Oracle** - Proficient
 
-## DevOps & Cloud
+## Tools & Development
+- **IntelliJ IDEA** - Expert
+- **Postman** - Expert
+- **SOAP UI** - Proficient
+- **SumoLogic** - Intermediate
+- **Dynatrace** - Intermediate
+- **Git** - Expert
+- **Swagger** - Proficient
+- **VersionOne** - Proficient
+
+## Cloud & DevOps
 - **AWS** - Proficient
-- **Docker/Kubernetes** - Intermediate
-- **CI/CD** - Proficient
-- **Git/GitHub** - Expert
+- **RedHat OpenShift** - Intermediate
+- **Microservices** - Expert
+- **Quarkus** - Proficient
+- **JBOSS BPM** - Intermediate
 
 ## Soft Skills
 - Team Leadership
-- Mentoring
-- Technical Writing
+- Client-facing Communication
 - Problem Solving
-- Agile/Scrum
+- Agile/Scrum Methodology
+- Performance Optimization

@@ -4,43 +4,45 @@ title: Projects
 
 # Featured Projects
 
-## Project Name 1
-**E-commerce Platform** | [GitHub](https://github.com/maheshsiv/project1) | [Live Demo](https://demo.com)
+## Revenue Management System
+**Delta Airlines - Enterprise Project** | [GitHub](https://github.com/maheshsiv/revenue-management)
 
-Full-stack e-commerce solution with real-time inventory management.
+Microservices-based revenue management system for airline operations.
 
-**Tech Stack:** React, Node.js, PostgreSQL, Stripe API, Docker
+**Tech Stack:** Java, Spring Boot, Quarkus, AWS, JBOSS BPM, Cassandra
 **Key Features:**
-- Real-time inventory tracking
-- Payment processing integration
-- Admin dashboard with analytics
-- Mobile-responsive design
+- High-performance REST APIs serving multiple downstream systems
+- Microservice architecture with Quarkus framework
+- AWS cloud migration and optimization
+- Business process orchestration using JBOSS BPM
+- Real-time monitoring with SumoLogic and Dynatrace
 
 ---
 
-## Project Name 2
-**Task Management App** | [GitHub](https://github.com/maheshsiv/project2)
+## Microservices API Gateway
+**Enterprise Integration Platform** | [GitHub](https://github.com/maheshsiv/api-gateway)
 
-Collaborative project management tool with real-time updates.
+Scalable API gateway solution for microservices communication.
 
-**Tech Stack:** Next.js, Firebase, Tailwind CSS
+**Tech Stack:** Spring Boot, Spring Cloud, Hystrix, Ribbon, GraphQL
 **Key Features:**
-- Real-time collaboration
-- File attachments
-- Timeline views
-- Team management
+- Circuit breaker pattern implementation
+- Load balancing with Ribbon
+- GraphQL integration for flexible data queries
+- Performance monitoring and analytics
+- Service discovery and routing
 
 ---
 
-## Open Source Contributions
+## AWS Migration Toolkit
+**Cloud Migration Solution** | [GitHub](https://github.com/maheshsiv/aws-migration-tools)
 
-### React Component Library
-Contributed to popular React UI library with 10k+ GitHub stars
-- Added accessibility improvements
-- Fixed responsive design issues
-- Updated documentation
+Custom tools and scripts for migrating enterprise applications to AWS.
 
-### Node.js Performance Tool
-Created utility for analyzing Node.js application performance
-- 500+ npm downloads
-- Featured in Node.js Weekly newsletter
+**Tech Stack:** Java, AWS Services, Spring Framework
+**Key Features:**
+- Automated application deployment
+- Database migration utilities  
+- Performance benchmarking tools
+- Cost optimization recommendations
+- Infrastructure as Code templates
