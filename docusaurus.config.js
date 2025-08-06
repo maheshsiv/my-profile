@@ -15,7 +15,11 @@ const config = {
       'classic',
       {
         docs: false, // Disable docs for resume site
-        blog: false, // Disable blog
+        blog: {
+          showReadingTime: true,
+          blogTitle: 'Blog',
+          blogDescription: 'My professional thoughts and experiences',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -33,14 +37,16 @@ const config = {
       items: [
         {to: '/', label: 'About', position: 'left'},
         {to: '/experience', label: 'Experience', position: 'left'},
+        {to: '/projects', label: 'Projects', position: 'left'},
         {to: '/skills', label: 'Skills', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/maheshsiv',
           label: 'GitHub',
           position: 'right',
         },
         {
-          href: 'https://www.linkedin.com/in/mahesh-kumar-sivakumarappa-07977475/',
+          href: 'https://linkedin.com/in/maheshsiv',
           label: 'LinkedIn',
           position: 'right',
         },
@@ -54,7 +60,7 @@ const config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://www.linkedin.com/in/mahesh-kumar-sivakumarappa-07977475/',
+              href: 'https://linkedin.com/in/maheshsiv',
             },
             {
               label: 'GitHub',

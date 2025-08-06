@@ -4,147 +4,132 @@ title: Experience
 
 # Professional Experience
 
-## Technical Architect at JP Morgan Chase
-*July 2023 - Present*
+## Technical Architect
+**JP Morgan Chase** | *July 2023 - Present*
 
 **Project:** POST IT
 
-### Role & Responsibilities:
+### Role & Responsibility:
 - Lead the development team responsible for processing all forms of documents in Chase
-- Develop REST APIs, lambdas and expose them as interfaces for various consumers
+- Develop REST APIs, lambdas and exposed it as interface for various consumers
 - Design and implement microservice architecture using Spring Boot
-- Use Jira for tracking work and breaking down into sprint-sized stories
+- Use Jira for tracking the work and separate the work into smaller sprint size stories
 
-### Technologies:
-- Java (JDK 17)
-- Spring Boot
-- REST APIs
-- React
-- AWS
-- Microservices
-- Swagger
-- BitBucket
+**Technologies:** JDK 17, Bitbucket, Spring Boot, RestWebServices, Swagger, MicroServices, AWS, React
 
-## Technical Architect at Hexaware Technologies
-*February 2022 - July 2023*
+---
+
+## Technical Architect
+**Hexaware Technologies** | *February 2022 - July 2023*
 
 **Client:** Delta Airlines (Atlanta, Georgia)  
 **Project:** Revenue Management
 
-### Role & Responsibilities:
-- Lead development team for multiple high-revenue products
-- Develop REST APIs to support multiple downstream projects
+### Role & Responsibility:
+- Lead the development team responsible for multiple high revenue products
+- Develop REST APIs in Java programming language to provide an interface to support multiple downstream projects in the organization
 - Design and implement microservice architecture using Quarkus
-- Migrate applications to AWS and implement AWS service solutions
-- Orchestrate microservices using JBOSS BPM rules
-- Monitor application performance using SumoLogic and Dynatrace
-- Manage work using VersionOne with sprint-based planning
+- Migrate existing applications to AWS and use AWS services to provide solutions to the applications
+- Use JBOSS BPM to orchestrate some rules to make different microservices based on rules
+- Monitor application performance using SumoLogic and Dynatrace tools to analyze code and configuration issues while conducting load tests
+- Use VersionOne for tracking the work and separate the work into smaller sprint size stories
 
-### Technologies:
-- Java (JDK 8)
-- Quarkus
-- Spring Boot
-- AWS
-- JBOSS BPM
-- Microservices
-- Git
-- Swagger
+**Technologies:** JDK 8, GIT, Spring Boot, RestWebServices, Swagger, MicroServices, AWS, Quarkus, JBOSS BPM
 
-## Technical Architect at Hexaware Technologies
-*November 2020 - February 2022*
+---
+
+## Technical Architect  
+**Hexaware Technologies** | *November 2020 - February 2022*
 
 **Client:** Delta Airlines (Atlanta, Georgia)  
 **Project:** Ancillary Bag
 
-### Role & Responsibilities:
-- Lead development team for high-revenue products
-- Develop REST APIs for downstream project support
-- Design microservices using Spring Boot and Spring Cloud
-- Deploy microservices on OpenShift
-- Implement Hystrix for system stability
-- Monitor performance using SumoLogic and Dynatrace
-- Collaborate with architects and business owners on technical design
+### Role & Responsibility:
+- Lead the development team responsible for multiple high revenue products
+- Develop REST APIs in Java programming language to provide an interface to support multiple downstream projects in the organization
+- Design and implement microservice architecture using Spring Boot and Spring Cloud technologies
+- Learn and utilize OpenShift to deploy microservices
+- Use Spring Cloud technologies like Hystrix for improving the stability of the systems
+- Monitor application performance using SumoLogic and Dynatrace tools to analyze code and configuration issues while conducting load tests
+- Use VersionOne for tracking the work and separate the work into smaller sprint size stories
+- Involve in technical and functional design with architects and business owners for better solutions
 
-### Technologies:
-- Java (JDK 8)
-- Spring Boot
-- Spring Cloud
-- OpenShift
-- Microservices
-- Git
-- Swagger
+**Technologies:** JDK 8, GIT, Spring Boot, RestWebServices, Swagger, MicroServices, OpenShift
 
-## System Analyst at Hexaware Technologies
-*July 2016 - November 2020*
+---
+
+## System Analyst
+**Hexaware Technologies** | *July 2016 - November 2020*
 
 **Client:** Delta Airlines (Atlanta, Georgia)  
 **Project:** SNAPP New Gen
 
-### Role & Responsibilities:
-- Developed rich web interface using Angular 6 and Angular Material
-- Created customizable airline framework generating millions in revenue
-- Implemented LightStreamer for real-time updates
-- Utilized IBM eXtreme Scale for scalable in-memory data grid
-- Designed business services using Spring Framework
-- Practiced Test-Driven Development in Agile environment
-- Developed front-end using Angular 6 and NgRx
-- Created REST API web services
+A web-based application used by Delta Airlines at their airport ticket counters and gates built using Angular and Microservices.
 
-### Technologies:
-- Java (JDK 8)
-- Angular 6
-- NgRx
-- SASS
-- Spring Boot
-- IBM eXtreme Scale
-- Jenkins
-- Tibco JMS
-- SonarQube
+### Role & Responsibility:
+- Developed the front-end featuring rich web interface implemented using HTML, CSS3, Angular 6 and Angular Material for responsive design
+- Developed on a framework so that project is customizable for any airlines
+  - This helped Delta to sell this product for several airlines and increased revenue of few million dollars
+- Used LightStreamer to get real-time updates – involved in redesign of the LightStreamer framework to support the configurable pubSub framework
+- Used IBM Extreme Scale object grids as persistence layer – a scalable in-memory data grid with partitions and replicas
+- Designed and developed Business Services using Spring Framework (Dependency Injection) and Template Design Patterns
+- Attend daily Agile sprint calls and to provide the day-to-day updates
+- Attend Sprint Grooming and planning ceremony to update the backlog
+- Used Test Driven Development (TDD) as part of agile process
+- Developed front-end pages using Angular 6 and NgRx
+- Wrote REST API Web-services to expose the business methods to external services
+- Used VersionOne to update the story progress
 
-## Senior Software Engineer at Hexaware Technologies
-*April 2013 - July 2016*
+**Technologies:** JDK 8, Angular 6, NgRx, SASS, GIT, Spring Boot, RESTWebServices, Swagger, MicroServices, Enterprise SOA, JAX WS, IBM eXtremeScale, Jenkins, TibcoJMS, SONAR QUBE
+
+---
+
+## Senior Software Engineer
+**Hexaware Technologies** | *April 2013 - July 2016*
 
 **Client:** Delta Airlines (Atlanta, Georgia)  
 **Project:** Axis Product Stabilization Support
 
-### Role & Responsibilities:
-- Developed reusable components reducing development time
-- Implemented Google Web Toolkit (GWT) framework
-- Managed defect analysis and resolution
-- Handled production support and GUI compatibility
-- Coordinated build management and project security
-- Mentored team members and conducted peer reviews
+Extension of the developed AXIS project carrying out minor/major enhancements, fixing bugs, preventive maintenance and corrective maintenance for product stabilization.
 
-### Technologies:
-- Java (JDK 1.6)
-- Google Web Toolkit (GWT 2.4)
-- IBM WebSphere
-- Enterprise SOA
-- JUnit 4
-- IBM Rational Clear Case
+### Role & Responsibility:
+- Developed several reusable components which reduced many development hours in project
+- Developing the application based on the design adhering to Google Web Toolkit (GWT) framework
+- Analyzing and fixing the defects on time with proper impact analysis and unit testing
+- Executed sanity scripts before every delivery to ensure there is no regression
+- Handled Production Support calls and responded to the information requested by the client
+- Independently handled GUI and browser compatibility issues
+- Involved in Build management activities and ensured on-time delivery
+- Involved as the project security coordinator
+- Involved in sending weekly status and monthly status reports
+- Mentored the team members and provided necessary support and guidance to the team members on their delivery and in all aspects
+- Conducting Peer reviews and Independent Testing
+- Attending weekly status meeting with the client
 
-## Senior Software Engineer at Hexaware Technologies
-*February 2010 - April 2013*
-
-**Client:** Delta Airlines (Atlanta, Georgia)  
-**Project:** AXIS Re-platform CMS
-
-### Role & Responsibilities:
-- Participated in rewriting Customer Management System
-- Developed streamlined call flow processes
-- Implemented SOA services integration
-- Enhanced customer experience through improved agent interface
-- Reduced manual processes and improved automation
-
-### Technologies:
-- Java (JDK 1.6)
-- Google Web Toolkit (GWT 2.4)
-- IBM WebSphere
-- Enterprise SOA
-- JUnit 4
-- Eclipse
+**Technologies:** JDK 1.6, Google Web Toolkit (GWT 2.4), IBM WebSphere, Enterprise SOA, JUNIT4, IBM Rational Clear Case Remote Client, CheckStyle, ANT, Eclipse IDE
 
 ---
 
-## Summary
-With over 13 years of client-facing experience in the IT sector, I am a seasoned Technical Architect with expertise in modern cloud technologies, microservices architecture, and full-stack development. Proven track record of leading development teams and delivering high-value solutions for major enterprises including JP Morgan Chase and Delta Airlines.
+## Senior Software Engineer
+**Hexaware Technologies** | *February 2010 - April 2013*
+
+**Client:** Delta Airlines (Atlanta, Georgia)  
+**Project:** AXIS – Re-platform CMS
+
+Delta re-wrote the current Customer Management System (CMS) and renamed it "Axis". Developed to eliminate manual processes, automation inconsistencies between working groups, toggling between systems, duplication of training material and processes, while reducing handling time and improving customers overall experiences.
+
+### Key Achievements:
+- Contributed to new user interface development
+- Streamlined call flow processes
+- Provided structure yet enabled flexibility for agents to service customers effectively
+- Minimized manual work processes
+- Enhanced customer experience by providing agents high-value customer information
+- Total utilization of SOA services
+- Single user interface to multiple applications
+
+**Technologies:** JDK 1.6, Google Web Toolkit (GWT 2.4), IBM WebSphere, Enterprise SOA, JUNIT4, IBM Rational Clear Case Remote Client, CheckStyle, ANT, Eclipse
+
+---
+
+## Career Progression Summary
+**13+ years of experience** progressing from Senior Software Engineer → System Analyst → Technical Architect, with extensive client-facing experience primarily with Delta Airlines and now JP Morgan Chase.
