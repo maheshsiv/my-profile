@@ -33,6 +33,7 @@ const config = {
       items: [
         {to: '/', label: 'About', position: 'left'},
         {to: '/experience', label: 'Experience', position: 'left'},
+        {to: '/skills', label: 'Skills', position: 'left'},
         {
           href: 'https://github.com/maheshsiv',
           label: 'GitHub',
