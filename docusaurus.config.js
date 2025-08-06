@@ -40,7 +40,7 @@ const config = {
           position: 'right',
         },
         {
-          href: 'https://linkedin.com/in/maheshsiv',
+          href: 'https://www.linkedin.com/in/mahesh-kumar-sivakumarappa-07977475/',
           label: 'LinkedIn',
           position: 'right',
         },
@@ -54,7 +54,7 @@ const config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://linkedin.com/in/maheshsiv',
+              href: 'https://www.linkedin.com/in/mahesh-kumar-sivakumarappa-07977475/',
             },
             {
               label: 'GitHub',
