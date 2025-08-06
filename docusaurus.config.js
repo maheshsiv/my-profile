@@ -15,11 +15,7 @@ const config = {
       'classic',
       {
         docs: false, // Disable docs for resume site
-        blog: {
-          showReadingTime: true,
-          blogTitle: 'Blog',
-          blogDescription: 'My professional thoughts and experiences',
-        },
+        blog: false, // Disable blog
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -37,9 +33,7 @@ const config = {
       items: [
         {to: '/', label: 'About', position: 'left'},
         {to: '/experience', label: 'Experience', position: 'left'},
-        {to: '/projects', label: 'Projects', position: 'left'},
         {to: '/skills', label: 'Skills', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/maheshsiv',
           label: 'GitHub',
