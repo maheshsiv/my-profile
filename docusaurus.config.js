@@ -54,7 +54,7 @@ const config = {
           items: [
             {
               label: 'LinkedIn',
-              href: 'https://linkedin.com/in/maheshsiv',
+              href: 'https://www.linkedin.com/in/mahesh-kumar-sivakumarappa-07977475',
             },
             {
               label: 'GitHub',
@@ -67,7 +67,7 @@ const config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Mahesh Kumar Sivakumarappa. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Mahesh Kumar Sivakumarappa.`,
     },
   },
 };
